@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Jun 07 10:44:24 PHT 2019
+0.baseType=DIRECTORY
+0.base=/Users/ernestguevara/AndroidStudioProjects/AAD1.2FragmentCommunicationPartA/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,4 @@
+#Fri Jun 07 08:59:01 PHT 2019
+base.0=/Users/ernestguevara/AndroidStudioProjects/AAD1.2FragmentCommunication/app/build/intermediates/transforms/dexMerger/debug/8
+path.0=classes.dex
+renamed.0=classes.dex
